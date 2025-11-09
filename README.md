@@ -4,9 +4,9 @@ Ini adalah proyek Flutter sederhana untuk memenuhi Tugas 6, yang mengimplementas
 
 Screenshot Aplikasi
 
-| Halaman Form Input | Halaman Tampil Data |
-| :---: | :---: |
-| <img src="Screenshot 2025-11-09 234055.png" width="250"> | <img src="Screenshot 2025-11-09 234106.png" width="250"> |
+| Halaman Form Input | Isi Data | Halaman Tampil Data |
+| :---: | :---: | :---: |
+| <img src="Screenshot 2025-11-09 234055.png" width="250"> | <img src="Screenshot 2025-11-09 234103.png" width="250"> | <img src="Screenshot 2025-11-09 234106.png" width="250"> |
 
 ---
 
